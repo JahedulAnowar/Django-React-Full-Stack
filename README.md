@@ -20,5 +20,8 @@ cd frontend
 npm install axios react-router-dom jwt-decode
 ```
 
-## Database
+## Database Deployment
+Choreo (Postgresql)
+
+## Backend Deployment
 Choreo
