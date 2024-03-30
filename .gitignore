@@ -1,0 +1,10 @@
+.env
+
+env/
+
+node_modules/
+
+*.pyc
+__pycache__/
+backend/api/__pycache__/
+*.cpython-312.pyc
